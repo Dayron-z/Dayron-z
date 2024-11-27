@@ -7,8 +7,7 @@
 
 💡 &nbsp;I enjoy diving into new technologies and creating innovative software solutions and efficient tools.\
 💬 &nbsp;Feel free to reach out if you have an exciting project where I can contribute or collaborate!\
-✉️ &nbsp;You can contact me at zbastian.zapata@gmail.com, and I'll get back to you as soon as possible.\  
-
+✉️ &nbsp;You can contact me at zbastian.zapata@gmail.com, and I'll get back to you as soon as possible.  
 
 
 <img alt="Night Coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="right"/>
@@ -68,10 +67,20 @@
 <a href="mailto:zbastian.zapata@gmail.com"><img src="https://img.shields.io/badge/-zbastian.zapata-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
+
 ### 🐍 &nbsp;That's How Commits move ...
 
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
